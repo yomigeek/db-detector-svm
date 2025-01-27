@@ -1,2 +1,2 @@
-# db-detector-svm
-Using SVM to detect diabetes
+# db-detector-SVM
+Using SVM Classifier to detect diabetes
